@@ -1,3 +1,11 @@
+# Strava 
+https://developers.strava.com/docs/authentication/
+https://developers.strava.com/playground/#/
+https://www.strava.com/settings/api
+
+# gestalt
+https://gestalt.netlify.app/#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
